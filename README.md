@@ -131,6 +131,11 @@ This project demonstrates frontend development skills, UI/UX design, state manag
 
 ---
 
+
+##Screenshots
+<img width="1298" height="555" alt="image" src="https://github.com/user-attachments/assets/7c6cbb0a-11d9-4dbd-9e74-924a3ab91fa2" />
+<img width="1317" height="335" alt="image" src="https://github.com/user-attachments/assets/ad18d30d-7257-4f43-908c-9edce53ab96a" />
+
 ## Author
 
 Nasha P
